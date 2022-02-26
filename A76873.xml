@@ -1,0 +1,211 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A bloody fight in Ireland: and a great victory obtained by Sir Charles Coot Lord President of the province of Connaught, and commander of those forces, and of London-Derry, against the Brittish forces of Laggan; with some regiments of Irish and Highlanders, and Irish, under Major Generall George Monro. Major Belfore, Cap. Madder, and divers others slaine: and Lieu. Col. Galbryth, Maj. Hambleton, Cap. Steuart, Maj. Graham; and many other officers taken prisoners: and nine colours taken, and great store of arms and plunder. And Sir Robert Stuart, Col. Mervine, and Col. James Erskine, their regiments beaten. With the particulars of the fight, and a list of the chiefe that are slaine and taken. And twenty garrisons in the provost of Connaught, now possest by Sir Charles Coot, for the Parliament of England. July 2. 1649. These being faithfully collected out of the letters this day from London-Derry, are appointed to be printed. Imp. Theodor. Jenning.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76873</idno>
+            <idno type="STC">Wing B3246</idno>
+            <idno type="STC">Thomason E562_12</idno>
+            <idno type="STC">ESTC R206081</idno>
+            <idno type="EEBO-CITATION">99865269</idno>
+            <idno type="PROQUEST">99865269</idno>
+            <idno type="VID">165233</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76873)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165233)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 86:E562[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A bloody fight in Ireland: and a great victory obtained by Sir Charles Coot Lord President of the province of Connaught, and commander of those forces, and of London-Derry, against the Brittish forces of Laggan; with some regiments of Irish and Highlanders, and Irish, under Major Generall George Monro. Major Belfore, Cap. Madder, and divers others slaine: and Lieu. Col. Galbryth, Maj. Hambleton, Cap. Steuart, Maj. Graham; and many other officers taken prisoners: and nine colours taken, and great store of arms and plunder. And Sir Robert Stuart, Col. Mervine, and Col. James Erskine, their regiments beaten. With the particulars of the fight, and a list of the chiefe that are slaine and taken. And twenty garrisons in the provost of Connaught, now possest by Sir Charles Coot, for the Parliament of England. July 2. 1649. These being faithfully collected out of the letters this day from London-Derry, are appointed to be printed. Imp. Theodor. Jenning.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by R.I.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  164491660 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165233:1" rendition="simple:additions"/>
+            <p>A BLOODY FIGHT IN IRELAND: And a Great VICTORY Obtained by Sir CHARLES COOT Lord Preſident of the Province of <hi>Connaught,</hi> and Commander of thoſe Forces, and of <hi>London-Derry,</hi> againſt the Brittiſh Forces of <hi>Laggan;</hi> with ſome Regiments of Iriſh and Highlanders, and Iriſh, under Major Generall <hi>George Monro.</hi>
+            </p>
+            <p>Major <hi>Belfore,</hi> Cap. <hi>Madder,</hi> and divers others ſlaine: And Lieu. Col. <hi>Galbryth,</hi> Maj. <hi>Hambleton,</hi> Cap. <hi>Steuart,</hi> Maj. <hi>Graham;</hi> and many other Officers taken pri<g ref="char:EOLhyphen"/>ſoners: And nine Colours taken, and great ſtore of Arms and plunder. And Sir <hi>Robert Stuart,</hi> Col. <hi>Mervine,</hi> and Col. <hi>James Erskine,</hi> Their Regiments beaten.</p>
+            <p>With the particulars of the fight, and a Liſt of the chiefe that are ſlaine and taken. And twenty Garriſons in the Provoſt of <hi>Connaught,</hi> now poſſeſt by Sir <hi>Charles Coot,</hi> for the Parliament of <hi>England.</hi>
+            </p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>July 2. 1649.</date>
+                           </dateline>
+                        </opener>
+                        <p>Theſe being faithfully collected out of the Letters this day from <hi>London-Derry,</hi> are appointed to be Printed.</p>
+                        <closer>
+                           <signed>Imp. <hi>Theodor. Jennings.</hi>
+                           </signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>R.</hi> I. 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="abstract_of_letters">
+            <pb facs="tcp:165233:2"/>
+            <pb n="1" facs="tcp:165233:2"/>
+            <head>A BLOODY FIGHT IN IRELAND: And a great Victory obtained by Sir <hi>Charles Coot,</hi> Lord Preſident of the Province of <hi>Connaught.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">F</seg>Riday laſt, the 29. of <hi>June</hi> 1649. in the Perfect Occurrences, was the particulars of ſome part of the paſt, and then preſent hard condition of Sir <hi>Charles Coot,</hi> Lord Preſident of the Province of <hi>Connaught,</hi> as it was repreſented to the Lord Liutenant <hi>Crumwell;</hi> to which book I muſt refer you unto.</p>
+            <p>And here onely acquaint you with the certainty of the particular relation of the gallant and deſperate ſally of Sir <hi>Charles Coot</hi> out of <hi>London-Derry</hi> (being cloſely beſieged by the <hi>Laggan</hi> Forces) as the ſame hath been repreſented by Letters of the 21. of June from <hi>London-Derry.</hi>
+            </p>
+            <p>Wherein is ſet forth, how he tooke priſoners, Lieutenant Collonell <hi>James Galbryth,</hi> Major <hi>Hamilton,</hi> Captaine <hi>John Stewart,</hi> Major <hi>Graham,</hi> two Lieutenants, two Enſignes, nine Colours, forty private Souldiers, brought home good ſtore
+<pb n="2" facs="tcp:165233:3"/>of Armes, and plunder, Major <hi>Belfoure,</hi> and Captaine <hi>Moder</hi> ſlaine, with many more, their Leagure is now within two Musket ſhot of the Towne, ſince which he hath on ſeverall other ſallies beaten them moſt ſhamefully, killed of their men, taken of their chiefe officers, and killed many, with<g ref="char:EOLhyphen"/>out any more more loſſe, then of three common Soul<g ref="char:EOLhyphen"/>diers.</p>
+            <p>The Enemy have divided themſelves thus; Sir <hi>Robert Stewart,</hi> and Collonell <hi>Mervine,</hi> with their two Regiments for the greateſt part, lye at a place called <hi>Fine,</hi> to prevent the advance of Sir <hi>Charles Cootes Connaught</hi> Forces, in com<g ref="char:EOLhyphen"/>ming for his reliefe, who lye about <hi>Balliſhanon,</hi> Major Ge<g ref="char:EOLhyphen"/>nerall <hi>George Monro,</hi> having lately gotten the Towne of <hi>Coleraine</hi> into his hands, without a ſtroke ſtriking (though Collonell <hi>Conaway</hi> was the Governour thereof.) <hi>Monro</hi> is now eturned into the <hi>Laggan,</hi> for Sir <hi>Robert Stewarts</hi> aſſiſtance, with his Regiments of Hilanders, and Iriſh, whereof his ſtrength conſiſts, and theſe with their Prieſts, are to ſettle the Proteſtant Reformed Religion, the Miniſtry of this Country, being clapt up cloſe priſoners by them.</p>
+            <p>Sir <hi>Alexander Stewarts</hi> Regiment is now put into the hands of Major <hi>James Erskine,</hi> who attends this Siege, with part of Sir <hi>Robert Stewarts</hi> and Collonell <hi>Mervins</hi> Regiments, and the Country Forces, beſides ſome of <hi>Monroes.</hi>
+            </p>
+            <p>The Parliament Ships with about 500. Quarters of Wheat, and 200. Men came ſafe to <hi>Derry;</hi> bread at preſent they have plenty, but other proviſions will very ſuddenly be exhauſted, whereof he hath given the Councell of State a true and an exact account of their affaires, whereby they may prevent any prejudice to <hi>London-Derry,</hi> the Fort of <hi>Culmor,</hi> and the <hi>Connaught</hi> Forces, who are (of all others) in a moſt ſtarving condition.</p>
+            <p>Sir <hi>Charles Coote</hi> hath alſo ſent ſome intercepted letters of Collonell <hi>Mervines,</hi> which moſt clearly declares him, both before he came out of <hi>England,</hi> and ſince, ſo that his great friends, who have ſo highly ingaged for him, he doubts not will be aſhamed of theſe practices, and in publiſhing
+<pb n="3" facs="tcp:165233:3"/>of his letters out of <hi>Scotland</hi> of this City of <hi>London-Derries</hi> being taken, a purpoſe to divert reliefe; but God hath prevented them, as he wil ever, and that a little more time will cleerly diſcover the moſt cloſe working of theirs: And doth not doubt but they will alſo divert and retard reliefe to <hi>Sligo,</hi> and the <hi>Con<g ref="char:EOLhyphen"/>naught</hi> Forces, who are ſtill faithfull to the Parlia<g ref="char:EOLhyphen"/>ment.</p>
+            <p>Now you may cleerly ſee, when with a poor hand<g ref="char:EOLhyphen"/>full, this gallant Gentleman, Sir <hi>Charles Coot,</hi> hath done ſuch brave and acceptable ſervice againſt a mul<g ref="char:EOLhyphen"/>titude; what might he not have done, having had addi<g ref="char:EOLhyphen"/>tionall Forces and Recruits of Horſe and Foot, as hath been ſent to the other three Provinces, which hee ne<g ref="char:EOLhyphen"/>ver had, as you were acquainted by the laſt Fridayes Booke: He now craves Collonel <hi>Huncks</hi> Regiment, with ſome Troops of horſe, proviſions and monies with them, may be ſent; alſo proviſions and monies for his <hi>Connaught</hi> Forces, which no doubt but the State will ſpeedily ſend.</p>
+            <p>Theſe three active Collonels againſt the Parliament, Sir <hi>Robert Stewart,</hi> Collonell <hi>Marvin,</hi> and now Col<g ref="char:EOLhyphen"/>lonel <hi>Erskeine,</hi> were carefully ſent over hither by Sir <hi>Charles Coot,</hi> priſoners to the Parliament: but how they were ſecured or releaſed, he knoweth not, yet fit to be enquired after for the advantage of the State.</p>
+            <argument>
+               <p>Abſtracted out of the Letters dated at London-Derry, <date>21. <hi>June,</hi> 1649.</date>
+               </p>
+            </argument>
+         </div>
+         <div type="account_of_the_state_of_Connaught">
+            <pb n="4" facs="tcp:165233:4"/>
+            <head>A Relation of the preſent condition of the Province of <hi>Connaught</hi> where the Honourable Sir <hi>Charles Coot,</hi> Knight and Baronet, Lord Pre<g ref="char:EOLhyphen"/>ſident of the ſaid Province is cheife Commander, given in by me <hi>George Wood,</hi> who came from thence in a poor and ſad condicirn, about the be<g ref="char:EOLhyphen"/>ginning of <hi>June. 1649.</hi>
+            </head>
+            <p>THey are there in a ſadde condition for want of proviſions, there being no mo<g ref="char:EOLhyphen"/>ny, corne or meale, in the ſtore at <hi>Sligo.</hi>
+            </p>
+            <p>They are in great feare and daily expect that the Marquis of <hi>Clanrickard,</hi> and <hi>George Mun<g ref="char:EOLhyphen"/>roe,</hi> will fall downe on them, they having no means to ſubſiſt but muſt periſh, and loſe the Country, and whole Province.</p>
+            <p>They have no contribution out of the Country, nor any thing brought to the Market, nor out of the Laggan neere <hi>Derry,</hi> from whence they were formerly furniſhed with meale, notwithſtanding all which wants and feares, they are faithfull and con<g ref="char:EOLhyphen"/>ſtant to the Parliaments ſervice, and reſolved to live and dye therein: Howbeit they are falſely aſperſed by ſome ill affected perſons,
+<pb n="5" facs="tcp:165233:4"/>whereby to retard their proviſions.</p>
+            <p>Their Forces is three Regiaments of Foot and two of Horſe.</p>
+            <p>The Lord Preſidents Regiment of horſe Col. <hi>Richard Coote</hi> his Regiament of horſe.</p>
+            <p>The Lord Preſidents Regiment of Foot.</p>
+            <p>Colonell <hi>Sanderſons</hi> Regiment of foot.</p>
+            <p>Col. <hi>Thomas Coote</hi> his Regiament of foot.</p>
+            <div type="part">
+               <head>The ſeverall Garriſons betweene the Ladies Bridge, and <hi>Balliſhanon 24</hi> miles from each other, being the Parliaments footing in that Province, of <hi>Connaught,</hi> viz.</head>
+               <list>
+                  <item>At <hi>Ardterman,</hi> the Lord Preſidents troope of horſe, Cap. <hi>Mountgomeries,</hi> &amp; Cap. Jo. <hi>Ormſ<g ref="char:EOLhyphen"/>bys</hi> horſe, And Cap. <hi>Hare</hi> his foot Company.</item>
+                  <item>At <hi>Sligoe,</hi> the Lord Preſidents foot, Col. <hi>Sanderſons</hi> foote, Lieut. Col. <hi>Newburgh,</hi> and Cap. <hi>Duns</hi> foot.</item>
+                  <item>At <hi>Armagh,</hi> Col. <hi>Richard Cootes</hi> horſe.</item>
+                  <item>At <hi>Larras,</hi> and <hi>Scardan</hi> Col. <hi>Thomas Cootes</hi> foot.</item>
+                  <item>At <hi>Burndruſſe</hi> Lieut. Col. <hi>Jackſons</hi> foot.</item>
+                  <pb n="6" facs="tcp:165233:5"/>
+                  <item> At <hi>Grange,</hi> Major <hi>John Kings</hi> horſe, and Cap. <hi>Francis Kings</hi> horſe and foot.</item>
+                  <item>At a Fort neere <hi>Drumcliſſe,</hi> Major <hi>Ormsbys</hi> horſe and foot.</item>
+                  <item>At <hi>Liſdill</hi> the Lord <hi>Bannalaghs</hi> horſe, and Cap. <hi>Blacknies</hi> foot.</item>
+                  <item>At the Court, Maj. <hi>Gores</hi> foot.</item>
+                  <item>At <hi>Bradcullin,</hi> Maj. <hi>Henderſons</hi> foot.</item>
+                  <item>At <hi>Clandarara</hi> Sir <hi>George</hi> St. <hi>Georges</hi> foot and Cap. <hi>Oliver</hi> St. <hi>George</hi> his horſe.</item>
+                  <item>At <hi>Newtowne,</hi> Cap. <hi>Robert Parks</hi> foote.</item>
+                  <item>
+                     <hi>A Mannor Hamilton,</hi> foot and horſe:</item>
+                  <item>At <hi>Cargin,</hi> Captaine <hi>Wiers</hi> foote.</item>
+                  <item>At <hi>Din-Carbry</hi> Captain <hi>Taylors</hi> horſe.</item>
+                  <item>At <hi>Caſtlegall,</hi> Col. <hi>Sanderſons</hi> horſe.</item>
+                  <item>At the Ladies Bridge Cap. <hi>Olivers</hi> horſe.</item>
+                  <item>At <hi>Drumaheere,</hi> Cap. <hi>Gores</hi> foot.</item>
+                  <item>At <hi>Grange Knockree,</hi> Cap. <hi>Boules</hi> foot.</item>
+               </list>
+            </div>
+            <closer>
+               <signed>GEORGE WOOD.</signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
